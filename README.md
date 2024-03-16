@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 I'm Pavel</h1>
 <h3 align="center">Enthusiasm, Sociability & Calmness</h3>
 
-- 🔭 I’m currently working for **[SMMplanner](https://smmplanner.com)** ❤️
+- 🔭 I’m currently working for **[SMMplanner](https://smmplanner.com)**
 - ❤️‍🔥 Now I'm in love with frontend and mobile development
 - 🧪 I have experience in manual, automated and load testing of web and mobile apps, also had an experience in role of AWS devops
 - 🤖 I really like to automate the daily routine
